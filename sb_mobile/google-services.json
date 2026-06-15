@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63995274861",
+    "firebase_url": "https://salimbigkas-default-rtdb.firebaseio.com",
+    "project_id": "salimbigkas",
+    "storage_bucket": "salimbigkas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63995274861:android:73b92f3b38ea626ad94164",
+        "android_client_info": {
+          "package_name": "com.synergy.salimbigkas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63995274861-nhhui5397591cm4lfqtrua1jdud707co.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.synergy.salimbigkas",
+            "certificate_hash": "4e10932b343143c6bf5fcb6e8efd7ec426cb9430"
+          }
+        },
+        {
+          "client_id": "63995274861-q138mdsf8sg43kq5g1m1hpibocvjks7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVd01puUArl5FEOHcOHgnHlmCw0NhsXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63995274861-q138mdsf8sg43kq5g1m1hpibocvjks7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63995274861-btog2vv5pmq9jnjqqenphsolplbj9a2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.synergy.salimbigkas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

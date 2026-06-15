@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288.51 62.05">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2c3e50;
+      }
+
+      .cls-3 {
+        font-family: LuckiestGuy-Regular, 'Luckiest Guy';
+        font-size: 48px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #f39c12;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(.89 45.27)"><tspan class="cls-2" x="0" y="0">S</tspan><tspan class="cls-1" x="25.12" y="0">ALIM</tspan><tspan class="cls-4" x="129.09" y="0">B</tspan><tspan class="cls-5" x="157.62" y="0">I</tspan><tspan class="cls-4" x="171.66" y="0">GKAS</tspan></text>
+</svg>

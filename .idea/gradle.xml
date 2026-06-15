@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-async-storage/async-storage/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/analytics/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/app/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/auth/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/crashlytics/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/database/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/firestore/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/functions/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/in-app-messaging/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/messaging/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/perf/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/remote-config/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-firebase/storage/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-google-signin/google-signin/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native-masked-view/masked-view/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native/gradle-plugin" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native/gradle-plugin" />
+            <option value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native/gradle-plugin/react-native-gradle-plugin" />
+            <option value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native/gradle-plugin/settings-plugin" />
+            <option value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native/gradle-plugin/shared" />
+            <option value="$PROJECT_DIR$/sb_mobile/node_modules/@react-native/gradle-plugin/shared-testutil" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-application/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-asset/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-audio/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-blur/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-constants/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-constants/scripts" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-crypto/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-dev-client/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-dev-launcher/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-dev-launcher/expo-dev-launcher-gradle-plugin" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-dev-menu-interface/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-dev-menu/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-file-system/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-font/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-haptics/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-image/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-json-utils/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-keep-awake/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-linear-gradient/android" />
+        <option name="gradleJvm" value="temurin-25" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-linking/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-manifests/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-modules-autolinking/android/expo-gradle-plugin" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-modules-autolinking/scripts/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-modules-core/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-modules-core/expo-module-gradle-plugin" />
+        <option name="gradleJvm" value="temurin-25" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sb_mobile/node_modules/expo-modules-core/expo-module-gradle-plugin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-screen-orientation/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-speech-recognition/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-speech/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-splash-screen/android" />
+        <option name="gradleJvm" value="temurin-25" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-system-ui/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-updates-interface/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-video/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo-web-browser/android" />
+        <option name="gradleJvm" value="temurin-25" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo/android" />
+        <option name="gradleJvm" value="temurin-25" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/expo/scripts" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/lottie-react-native/android" />
+        <option name="gradleJvm" value="temurin-25" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-blob-util/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-edge-to-edge/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-gesture-handler/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-pdf/android" />
+        <option name="gradleJvm" value="1.8 (2)" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-reanimated/android" />
+        <option name="gradleJvm" value="1.8 (4)" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-safe-area-context/android" />
+        <option name="gradleJvm" value="temurin-25" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-safe-area-context/android" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-screens/android" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-svg/android" />
+        <option name="gradleJvm" value="1.8 (3)" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-vector-icons" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sb_mobile/node_modules/react-native-webview/android" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

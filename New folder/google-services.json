@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63995274861",
+    "firebase_url": "https://salimbigkas-default-rtdb.firebaseio.com",
+    "project_id": "salimbigkas",
+    "storage_bucket": "salimbigkas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63995274861:android:73b92f3b38ea626ad94164",
+        "android_client_info": {
+          "package_name": "com.synergy.salimbigkas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63995274861-q138mdsf8sg43kq5g1m1hpibocvjks7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVd01puUArl5FEOHcOHgnHlmCw0NhsXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63995274861-k6mbh743uu7skrc8k4fujddo68061gl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

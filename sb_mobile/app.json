@@ -1,0 +1,118 @@
+{
+  "expo": {
+    "name": "SalimBigkas",
+    "slug": "salimbigkas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/adaptive-icon-white.png",
+    "scheme": "salimbigkas",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash-icon-text-white.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2C3E50"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-screen-orientation",
+        {
+          "initialOrientation": "DEFAULT"
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ],
+      [
+        "expo-speech-recognition",
+        {
+          "microphonePermission": "Allow SalimBigkas to use the microphone.",
+          "speechRecognitionPermission": "Allow SalimBigkas to use speech recognition.",
+          "androidSpeechServicePackages": [
+            "com.google.android.googlequicksearchbox"
+          ]
+        }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Schoolbell-Regular.ttf",
+            "./assets/fonts/SourceSans3-ExtraBold.ttf",
+            "./assets/fonts/ChalkBoard.otf",
+            "./assets/fonts/SourceSans3-Regular.ttf"
+          ]
+        }
+      ],
+      "expo-audio",
+      "expo-video",
+      "expo-web-browser",
+      "@react-native-google-signin/google-signin",
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+      "@react-native-firebase/crashlytics",
+      "@react-native-firebase/messaging",
+      "@react-native-firebase/perf",
+      "@config-plugins/react-native-blob-util",
+      "@config-plugins/react-native-pdf"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "icon": "./assets/images/ios-white.png",
+      "bundleIdentifier": "com.synergy.salimbigkas",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to take photos and videos.",
+        "NSMicrophoneUsageDescription": "Allow SalimBigkas to use the microphone.",
+        "NSLocationWhenInUseUsageDescription": "This app uses your location for ...",
+        "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to save and select images.",
+        "NSPhotoLibraryAddUsageDescription": "This app saves photos and videos to your library.",
+        "NSSpeechRecognitionUsageDescription": "Allow SalimBigkas to use speech recognition.",
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon-white.png",
+        "backgroundColor": "#2C3E50"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.synergy.salimbigkas",
+      "versionCode": 1,
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/sb-icon.png"
+    },
+    "experiments": {
+      "typedRoutes": true
+    },
+    "description": "Salimbigkas | Your AI-Powered Filipino E-Learning Companion.",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c9daa436-605a-433e-bf25-95716784f616"
+      }
+    },
+    "owner": "salimbigkas"
+  }
+}
